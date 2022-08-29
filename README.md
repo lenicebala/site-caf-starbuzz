@@ -1,2 +1,2 @@
-# site-caf-starbuzz
+# site-cafe-starbuzz
 site "teste" - café starbuzz
